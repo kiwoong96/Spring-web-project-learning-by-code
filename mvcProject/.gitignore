@@ -21,6 +21,9 @@ local.properties
 # JDT-specific
 .classpath
 
+# mac
+.DS_Store
+
 # External tool builders
 .externalToolBuilders/
 
